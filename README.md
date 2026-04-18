@@ -4,7 +4,7 @@
 
 <br/><br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-339933?style=for-the-badge&logo=google-chrome&logoColor=white)](https://inderjeet0007.github.io) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-339933?style=for-the-badge&logo=google-chrome&logoColor=white)](https://all-abt-inderjeet.vercel.app/) 
 &nbsp;&nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/inderjeet-saluja/)
 &nbsp;&nbsp;
